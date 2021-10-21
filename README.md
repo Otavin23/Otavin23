@@ -9,5 +9,5 @@
 </div>
   
 <div style="display: inline-block;">
-    ![Snake animation](https://github.com/Otavin23/Otavin23/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/wesleyara/wesleyara/blob/output/github-contribution-grid-snake.svg)
 </div>
