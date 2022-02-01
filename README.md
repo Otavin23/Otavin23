@@ -12,7 +12,6 @@
   <img align="center" alt="Wesley-PY" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow">
   </div>
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
 #### Frameworks and Tools
 
