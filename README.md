@@ -20,7 +20,7 @@ let
 
 <div>
   <a href="https://github.com/Otavin23">
-  <img width="400"height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavin23&show_icons=true&theme=lightinclude_all_commits=true&count_private=true%22/%3E">
+  <img width="400"height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavin23&show_icons=true&theme=light&include_all_commits=true&count_private=true%22/%3E">
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavin23&layout=compact&langs_count=7&theme=light&include_all_commits=true&count_private=true%22/%3E">
 </div>
 
