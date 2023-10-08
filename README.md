@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Otavio, I'm 18 years old and I'm from Minas Gerais. From an early age, I developed a strong passion for programming.</p>
-
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 ###
 
 <h2 align="left">About me</h2>
